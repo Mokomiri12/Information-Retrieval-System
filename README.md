@@ -1,4 +1,4 @@
-# Information Retrieval from Multiple PDF 💁💬 with PaLM2
+# Information Retrieval from Multiple PDF with PaLM2
 
 
 # How to run?
